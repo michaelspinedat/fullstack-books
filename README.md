@@ -2,4 +2,4 @@
 Books list app
 
 # Website
-[js-fullstack-books](https://dashboard.heroku.com/apps/js-fullstack-books/deploy/heroku-git)
+[js-fullstack-books](https://js-fullstack-books.herokuapp.com/)
